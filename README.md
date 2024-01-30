@@ -1,1 +1,1 @@
-# BJUT_SC2
+# BJUT_SC02
